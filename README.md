@@ -1,2 +1,2 @@
-# public_html
+# TECH-BASE
 "テックベースで制作した内容です。
